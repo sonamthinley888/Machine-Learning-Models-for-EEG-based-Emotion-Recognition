@@ -1,4 +1,4 @@
-# Machine-Learning-Models-for-EEG-based-Emotion-Recognition
+# Emo-Sense: Machine-Learning-Models-for-EEG-based-Emotion-Recognition
 
 **Authors**: [Sonam Thinley], et al.
 
