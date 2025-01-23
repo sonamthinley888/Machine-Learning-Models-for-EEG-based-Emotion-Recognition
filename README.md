@@ -1,6 +1,6 @@
 # Machine-Learning-Models-for-EEG-based-Emotion-Recognition
 
-**Authors**: [Your Name], et al.
+**Authors**: [Sonam Thinley], et al.
 
 ## Abstract
 
